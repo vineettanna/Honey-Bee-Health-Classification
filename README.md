@@ -23,12 +23,12 @@ Varroa, Small Hive Beetles       0.80      0.81      0.80       104
 
 **Confusion Matrix**
 
-![HoneyBee_resnet34](G:\My Drive\FastAI\DeepLearning_1\Lesson 1 Honey Bee Health Classification\Confusion_Matrix.png)
+![HoneyBee_resnet34](Confusion_Matrix.png)
 
 **Some images where model performed the best**
 
-![Top_Performance](G:\My Drive\FastAI\DeepLearning_1\Lesson 1 Honey Bee Health Classification\Top_Performance.png)
+![Top_Performance](Top_Performance.png)
 
 **Some Images where the model Performed the worst**
 
-![Worst_Perf](G:\My Drive\FastAI\DeepLearning_1\Lesson 1 Honey Bee Health Classification\Worst_Perf.png)
+![Worst_Perf](Worst_Perf.png)
